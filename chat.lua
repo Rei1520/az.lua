@@ -9,11 +9,10 @@ local ImageLabel = Instance.new("ImageLabel")
 local Title = Instance.new("TextLabel")
 local X = Instance.new("TextButton")
 local Frame_2 = Instance.new("Frame")
-local Chat = Instance.new("TextBox")
+local message = Instance.new("TextBox")
 local ChatBtn = Instance.new("TextButton")
 local DelayBox = Instance.new("TextBox")
 local minimze = Instance.new("TextButton")
-local message = ""
 local Tiemlolol = 5000000000
 
 --Properties:
